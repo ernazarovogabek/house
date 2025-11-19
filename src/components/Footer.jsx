@@ -106,10 +106,10 @@ const Footer = () => {
           <div className="text-xs text-gray-400">
             <div className="font-medium mb-1">Принимаем к оплате:</div>
             <div className="flex space-x-3 mt-2">
-              <img src="https://via.placeholder.com/40x25?text=VISA" alt="VISA" className="h-6" />
-              <img src="https://via.placeholder.com/40x25?text=Mastercard" alt="Mastercard" className="h-6" />
-              <img src="https://via.placeholder.com/40x25?text=MIR" alt="MIR" className="h-6" />
-              <img src="https://via.placeholder.com/40x25?text=Яндекс" alt="Яндекс" className="h-6" />
+              <img src="" alt="" className="" />
+              <img src="" alt="" className="" />
+              <img src="" alt="" className="" />
+              <img src="" alt="" className="" />
             </div>
           </div>
         </div>
